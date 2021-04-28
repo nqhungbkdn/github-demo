@@ -1,13 +1,8 @@
 #include<iostream>
 using namespace std;
 
-void func(void)
-{
-    cout <<"HelloWorld!";
-}
-
 int main()
 {
-    func();
+    cout <<"Hello World!";
     return 0;
 }
